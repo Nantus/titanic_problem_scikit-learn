@@ -1,4 +1,5 @@
 /.ipynb_checkpoints/
 /env/
-/gender_submission
-/test
+/gender_submission.csv
+/test.csv
+/train.csv
